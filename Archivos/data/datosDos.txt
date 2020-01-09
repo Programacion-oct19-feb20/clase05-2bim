@@ -1,0 +1,2 @@
+1|René|Elizalde|100.2
+2|Felipe|Elizalde|200.2
